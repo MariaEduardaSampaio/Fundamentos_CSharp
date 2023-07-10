@@ -1,0 +1,15 @@
+C:\Users\dudah\dev\Fundamentos2\bin\Debug\net7.0\Fundamentos2.exe
+C:\Users\dudah\dev\Fundamentos2\bin\Debug\net7.0\Fundamentos2.deps.json
+C:\Users\dudah\dev\Fundamentos2\bin\Debug\net7.0\Fundamentos2.runtimeconfig.json
+C:\Users\dudah\dev\Fundamentos2\bin\Debug\net7.0\Fundamentos2.dll
+C:\Users\dudah\dev\Fundamentos2\bin\Debug\net7.0\Fundamentos2.pdb
+C:\Users\dudah\dev\Fundamentos2\obj\Debug\net7.0\Fundamentos2.csproj.AssemblyReference.cache
+C:\Users\dudah\dev\Fundamentos2\obj\Debug\net7.0\Fundamentos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudah\dev\Fundamentos2\obj\Debug\net7.0\Fundamentos2.AssemblyInfoInputs.cache
+C:\Users\dudah\dev\Fundamentos2\obj\Debug\net7.0\Fundamentos2.AssemblyInfo.cs
+C:\Users\dudah\dev\Fundamentos2\obj\Debug\net7.0\Fundamentos2.csproj.CoreCompileInputs.cache
+C:\Users\dudah\dev\Fundamentos2\obj\Debug\net7.0\Fundamentos2.dll
+C:\Users\dudah\dev\Fundamentos2\obj\Debug\net7.0\refint\Fundamentos2.dll
+C:\Users\dudah\dev\Fundamentos2\obj\Debug\net7.0\Fundamentos2.pdb
+C:\Users\dudah\dev\Fundamentos2\obj\Debug\net7.0\Fundamentos2.genruntimeconfig.cache
+C:\Users\dudah\dev\Fundamentos2\obj\Debug\net7.0\ref\Fundamentos2.dll
