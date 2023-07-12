@@ -1,0 +1,15 @@
+C:\Users\dudah\dev\Fundamentos3\obj\Debug\net7.0\Fundamentos3.csproj.AssemblyReference.cache
+C:\Users\dudah\dev\Fundamentos3\obj\Debug\net7.0\Fundamentos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudah\dev\Fundamentos3\obj\Debug\net7.0\Fundamentos3.AssemblyInfoInputs.cache
+C:\Users\dudah\dev\Fundamentos3\obj\Debug\net7.0\Fundamentos3.AssemblyInfo.cs
+C:\Users\dudah\dev\Fundamentos3\obj\Debug\net7.0\Fundamentos3.csproj.CoreCompileInputs.cache
+C:\Users\dudah\dev\Fundamentos3\bin\Debug\net7.0\Fundamentos3.exe
+C:\Users\dudah\dev\Fundamentos3\bin\Debug\net7.0\Fundamentos3.deps.json
+C:\Users\dudah\dev\Fundamentos3\bin\Debug\net7.0\Fundamentos3.runtimeconfig.json
+C:\Users\dudah\dev\Fundamentos3\bin\Debug\net7.0\Fundamentos3.dll
+C:\Users\dudah\dev\Fundamentos3\bin\Debug\net7.0\Fundamentos3.pdb
+C:\Users\dudah\dev\Fundamentos3\obj\Debug\net7.0\Fundamentos3.dll
+C:\Users\dudah\dev\Fundamentos3\obj\Debug\net7.0\refint\Fundamentos3.dll
+C:\Users\dudah\dev\Fundamentos3\obj\Debug\net7.0\Fundamentos3.pdb
+C:\Users\dudah\dev\Fundamentos3\obj\Debug\net7.0\Fundamentos3.genruntimeconfig.cache
+C:\Users\dudah\dev\Fundamentos3\obj\Debug\net7.0\ref\Fundamentos3.dll
